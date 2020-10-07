@@ -3,11 +3,12 @@ PUSH 전에 PULL이 있다.
 PULL
 git pull origin master
 
+github update
+
 PUSH
 git status
 git add
 git commit -m "massage"
 git push origin +master
 
-추가적으로 변경 부분에 대해서 저장합니다. 
 
