@@ -1,0 +1,10 @@
+PUSH 전에 PULL이 있다.
+
+PULL
+git pull origin master
+
+PUSH
+git status
+git add
+git commit -m "massage"
+git push origin +master
