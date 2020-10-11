@@ -7,8 +7,17 @@ github update
 
 PUSH
 git status
-git add
+git add .
 git commit -m "massage"
 git push origin +master
+
+
+** 다른 사람의 git 가져오기
+
+1. git url copy한다
+2. 새로운 폴더를 만든다.
+3. git init
+4. git remote add origin 주소url
+5. git pull origin master
 
 
